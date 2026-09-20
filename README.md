@@ -3,8 +3,8 @@
 The Homebrew tap for [Tomelet](https://tomelet.app/), an ebook reader for EPUB, PDF and comics.
 
 > **Not published yet.** The cask lands here once the Mac app is signed with a Developer ID certificate and
-> notarised. Until then this tap is empty on purpose. Downloads for every platform are at
-> [tomelet.app](https://tomelet.app/).
+> notarised. Until then this tap is empty on purpose, and the Mac app isn't downloadable anywhere. Android,
+> Windows and Linux builds are at [tomelet.app](https://tomelet.app/).
 
 Once it is published:
 
