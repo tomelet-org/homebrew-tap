@@ -1,8 +1,8 @@
 # frozen_string_literal: true
 
 cask "tomelet" do
-  version "1.3.0,100"
-  sha256 "66db692417f005b2ff62e4f65d2e46b9ab4c0d7edd9223fe4cddce03e584f9a3"
+  version "1.3.0,111"
+  sha256 "00a36abb27252ef25f1f25a44c48f8ba298ec95ba900e5c8d11251c11e342b33"
 
   url "https://github.com/tomelet-org/tomelet-downloads/releases/download/app-v#{version.csv.first}%2B#{version.csv.second}/tomelet-#{version.csv.first}-macos.dmg"
   name "Tomelet"
