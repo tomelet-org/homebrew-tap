@@ -1,9 +1,9 @@
 class Tomelet < Formula
   desc "Read and annotate your ebooks"
   homepage "https://tomelet.app/"
-  url "https://github.com/tomelet-org/tomelet-downloads/releases/download/app-v1.4.0%2B127/tomelet-1.4.0-linux-x86_64.tar.gz"
-  version "1.4.0.127"
-  sha256 "b02d26a2c0108ef9468bc6b746e50fa402ea06a751c170a9611833a3962346b4"
+  url "https://github.com/tomelet-org/tomelet-downloads/releases/download/app-v1.5.0%2B138/tomelet-1.5.0-linux-x86_64.tar.gz"
+  version "1.5.0.138"
+  sha256 "21a402be55edb3d40bbb2357e0a1199de934231edffb1950f8357630ed2fabf1"
   # Tomelet is proprietary; the shipped AppStream metadata links to its terms.
   license :cannot_represent
 
